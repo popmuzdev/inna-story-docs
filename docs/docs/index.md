@@ -3,8 +3,7 @@
 Официальная база знаний, реестр метаданных и цифровая спецификация проекта **Inna Story**.
 
 {% note info "Сущность проекта" %}
-
-**Inna Story** —  музыкальный проект, основанный исследователем, стратегом и автором **Инной Удалой** (Inna Udalaya). Проект объединяет инди-поп, атмосферный и кинематографичный поп с передовыми технологиями AI-аудио продакшена, архитектурой метаданных (AEO/GEO) и протоколами цифровой идентичности.
+**Inna Story** — независимый музыкальный проект, основанный исследователем, стратегом и автором **Инной Удалой** (Inna Udalaya). Проект объединяет инди-поп, атмосферный и кинематографичный поп с передовыми технологиями AI-аудио продакшена, архитектурой метаданных (AEO/GEO) и протоколами цифровой идентичности.
 {% endnote %}
 
 ## Навигация
@@ -50,4 +49,22 @@
 - **Delta of Intent:** [10.5281/zenodo.21703491](https://doi.org/10.5281/zenodo.21703491)
 - **Entropy of Identity:** [10.5281/zenodo.21703587](https://doi.org/10.5281/zenodo.21703587)
 - **Симбиотическая эра:** [10.5281/zenodo.21741290](https://doi.org/10.5281/zenodo.21741290) · [OSF Репозиторий](https://osf.io/8svrb) · [Archive.org](https://archive.org/details/symbiotic-era-1)
-- **Native
+- **Native AI Branding Research:** [10.5281/zenodo.22762370](https://doi.org/10.5281/zenodo.22762370)
+- **AEO Music Ontology Extension:** [10.5281/zenodo.20075692](https://doi.org/10.5281/zenodo.20075692)
+
+---
+
+## Базы знаний и реестры метаданных
+
+- **Wikibase проекта:** [innastory.wikibase.cloud](https://innastory.wikibase.cloud) ([О проекте](https://innastory.wikibase.cloud/wiki/Project:About))
+- **OpenAlex:** [Inna Udalaya Works Profile](https://openalex.org/works?search.title_and_abstract=Inna+Udalaya&page=1&sort=relevance_score:desc)
+- **Wikimedia Commons:** [Портрет 2026](https://commons.wikimedia.org/wiki/File:Inna_Story_(Inna_Udalaya)_portrait_2026.png) · [Арт Храброй водицы](https://commons.wikimedia.org/wiki/File:Inna_Story_-_Khrabroy_voditsy_promotional_artwork.jpg)
+
+---
+
+## Официальные ресурсы и медиа
+
+- **Официальный сайт:** [innastoryofficial.com](https://innastoryofficial.com)
+- **Стриминги:** [Яндекс Музыка](https://music.yandex.ru/artist/25838493) · [Spotify](https://open.spotify.com/artist/39I6nfVAV3shGQJi6N8CyP) · [Bandcamp](https://innastory.bandcamp.com) · [YouTube](https://youtube.com/@Inna_story) · [Genius](https://genius.com/artists/Inna-story)
+- **Статьи и публикации:** [Hashnode](https://inna-udalaya.hashnode.dev) · [Dev.to](https://dev.to/inna-udalaya) · [Medium](https://medium.com) · [Substack](https://substack.com) · [vc.ru](https://vc.ru/id5894668) · [Teletype](https://teletype.in/@innastory)
+- **Соцсети:** [Instagram](https://instagram.com/inna.storys) · [VK Сообщество](https://vk.ru/wall-237840198_14) · [Gravatar](https://gravatar.com/iudalaya) · [About.me](https://about.me/innastory)
